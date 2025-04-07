@@ -1,0 +1,1 @@
+# naked.hotrorakuten.com-vercel
